@@ -1,5 +1,5 @@
 # テスト
 テスト
-'''python
+```python
 test
-'''
+```
